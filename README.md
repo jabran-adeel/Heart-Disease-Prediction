@@ -15,7 +15,7 @@ Predict whether a person is at risk of heart disease using their medical attribu
 
 ## 📈 Results:
 - **Accuracy**: ~[86%]  
-- Most important features: 'st_slope', 'sex', 'exercise_angina', 'chest_pain_type' etc.
+- Most important features: `st_slope`, `sex`, `exercise_angina`, `chest_pain_type` etc.
 
 ## 📁 Files:
 - `Heart_Disease_Prediction.ipynb`: Full notebook
